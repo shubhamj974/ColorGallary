@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(43, 43, 95);
+}
+
+.box{
+    height:250px;
+}
+.pink div{
+    background-color: pink;
+}
+.yellowgreen div{
+    background-color: yellowgreen;
+}
+.tomato div{
+    background-color: tomato;
+}
+.aqua div{
+    background-color: aqua;
+}
+
+img {
+    width: 100%;
+    height : 100%;
+}
